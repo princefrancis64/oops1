@@ -7,7 +7,7 @@ def index1():
         v=int(input("enter an integer"))
     except Exception as e:
          logging.error(e)
-         logging.info("please enter a string")
+         logging.info("please enter a string1")
 
 
 index1()
