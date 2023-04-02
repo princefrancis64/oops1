@@ -6,8 +6,9 @@ def index1():
     try:
         v=int(input("enter an integer"))
     except Exception as e:
-         logging.error(e)
-         logging.info("please enter a string1")
+        logging.error(e)
+        logging.info("please enter a string1")
+        logging.info("please enter a string2")
 
 
 index1()
