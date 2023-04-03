@@ -1,0 +1,5 @@
+INFO root 2023-04-02 22:25:50,199 we are into this function
+INFO root 2023-04-02 22:26:37,478 we are into this function
+INFO root 2023-04-02 22:26:48,272 we are into this function
+ERROR root 2023-04-02 22:26:48,273 'int' object is not subscriptable
+INFO root 2023-04-02 22:26:48,273 function failed
