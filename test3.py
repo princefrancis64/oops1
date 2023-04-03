@@ -21,3 +21,6 @@ barca=person()
 prince.email_id_input("prince.francis64")
 print(prince.ask_name())
 print(barca.ask_name())
+
+
+

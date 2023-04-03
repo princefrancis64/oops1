@@ -19,3 +19,5 @@ ashi = Person("ashish", "shaji", "asfsajfds@gmail.com", 1995)
 barca = Person("barca", "cryuff", "barca@gmail.com", 1988)
 print(prince_var.age(2022))
 
+
+
